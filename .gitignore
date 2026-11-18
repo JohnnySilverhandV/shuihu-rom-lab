@@ -1,0 +1,9 @@
+# 构建产物与本地测试文件不入库
+build/
+*.bin
+*.md
+!README.md
+*.zip
+*.ips
+__pycache__/
+*.pyc
